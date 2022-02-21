@@ -1044,6 +1044,9 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
+    .icon-md {
+        font-size: 48px!important;
+    }
 }
 
 @media (max-width: 767px) {
